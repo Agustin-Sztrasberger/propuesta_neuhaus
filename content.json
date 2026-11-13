@@ -1,0 +1,351 @@
+{
+  "meta": {
+    "title": "Propuesta Shift × Neuhaus Real Estate",
+    "client": "Neuhaus Real Estate",
+    "date": "Noviembre 2026"
+  },
+  "nav": [
+    {
+      "id": "intro",
+      "label": "Diagnóstico"
+    },
+    {
+      "id": "estrategia",
+      "label": "Estrategia"
+    },
+    {
+      "id": "contenido",
+      "label": "Contenido"
+    },
+    {
+      "id": "pauta",
+      "label": "Pauta"
+    },
+    {
+      "id": "produccion",
+      "label": "Producción"
+    },
+    {
+      "id": "proceso",
+      "label": "Proceso"
+    },
+    {
+      "id": "inversion",
+      "label": "Inversión"
+    }
+  ],
+  "hero": {
+    "eyebrow": "Propuesta comercial · Noviembre 2026",
+    "title": "Neuhaus, bienvenidos a Shift.",
+    "subtitle": "Contenido, diseño, producción audiovisual y pauta en Meta y Google para instalar la marca Neuhaus y, después, vender sus unidades.",
+    "cta": "Ver la propuesta",
+    "stats": [
+      {
+        "value": "2 fases",
+        "label": "Awareness y ventas"
+      },
+      {
+        "value": "5 desarrollos",
+        "label": "Centenera 716 y 740, Directorio 1290 y 1302, Vitreaux"
+      },
+      {
+        "value": "1 mensaje",
+        "label": "El mismo en todos los canales"
+      }
+    ]
+  },
+  "intro": {
+    "eyebrow": "Lo que nos contaron",
+    "title": "Una desarrolladora con historia que quiere vender con voz propia.",
+    "lead": "En la charla con Renzo nos quedaron claros los objetivos de Neuhaus. Esta propuesta está armada alrededor de ellos.",
+    "goals": [
+      {
+        "title": "Generar awareness",
+        "text": "Que Neuhaus sea una marca conocida antes de salir a vender fuerte."
+      },
+      {
+        "title": "Un solo mensaje",
+        "text": "Comunicar lo mismo en redes, web, Google, cartelería de obra y brochures."
+      },
+      {
+        "title": "Ventas propias",
+        "text": "Armar un equipo de ventas in-house y dejar de depender de inmobiliarias."
+      },
+      {
+        "title": "Vender lo que hay",
+        "text": "Una vez instalada la marca, pautar para vender las unidades de los edificios actuales."
+      }
+    ],
+    "findingsTitle": "Lo que vimos al revisar la marca",
+    "findings": [
+      {
+        "title": "WhatsApp dado de baja",
+        "text": "Los botones de \"Consultar\" de la web llevan a un número que no funciona."
+      },
+      {
+        "title": "Sin perfil de Google",
+        "text": "Al buscar \"Neuhaus\" en Google Maps no aparece la desarrolladora."
+      },
+      {
+        "title": "Instagram sin actividad",
+        "text": "La cuenta no publica desde marzo y no muestra la preventa ni Vitreaux."
+      },
+      {
+        "title": "Sin medición",
+        "text": "La web no tiene Píxel de Meta ni Google Analytics: hoy no se puede medir la pauta."
+      },
+      {
+        "title": "Portada pesada",
+        "text": "El video de inicio pesa 19 MB en 4K y tarda en cargar desde el celular."
+      }
+    ]
+  },
+  "strategy": {
+    "eyebrow": "Estrategia",
+    "title": "Primero darse a conocer. Después, vender.",
+    "lead": "Primero construimos la marca y la audiencia; cuando la cuenta crece, la pauta pasa a buscar compradores.",
+    "phases": [
+      {
+        "tag": "Fase 1",
+        "period": "Primeros meses",
+        "title": "Awareness",
+        "text": "Dar a conocer Neuhaus: una desarrolladora con obra propia y una historia que empieza en 1910.",
+        "items": [
+          "Base técnica: WhatsApp, perfil de Google, Píxel y Analytics",
+          "Línea de comunicación única para todos los canales",
+          "Contenido de historia, obra y proyectos",
+          "Pauta de alcance y reproducciones en Meta",
+          "Google Ads de marca para quien ya busca Neuhaus"
+        ]
+      },
+      {
+        "tag": "Fase 2",
+        "period": "Cuando la cuenta crece",
+        "title": "Ventas",
+        "text": "Usar la audiencia construida para generar consultas de compra de las unidades disponibles.",
+        "items": [
+          "Campañas de consultas por desarrollo",
+          "Remarketing a quien ya vio los proyectos",
+          "Google Ads de búsqueda para compradores e inversores",
+          "Consultas directas al equipo de ventas vía CRM",
+          "Reporte de consultas por canal y costo"
+        ]
+      }
+    ],
+    "note": "El paso a la Fase 2 lo definimos juntos según cómo crezca la cuenta y la respuesta de la audiencia."
+  },
+  "content": {
+    "eyebrow": "Estrategia de contenido",
+    "title": "Lo que Neuhaus ya tiene para contar.",
+    "lead": "No hace falta inventar nada: la marca tiene historia, obras en marcha y un edificio entregado. Organizamos el contenido en cinco pilares.",
+    "pillars": [
+      {
+        "title": "Historia",
+        "text": "Cuatro generaciones desde 1910: de Pedro S. Nadal a BNP+NADAL y Neuhaus."
+      },
+      {
+        "title": "Obra",
+        "text": "Avances reales de Directorio 1290 y 1302: excavación, estructura, terminaciones."
+      },
+      {
+        "title": "Producto",
+        "text": "Tipologías, plantas, amenities y entregas de cada desarrollo."
+      },
+      {
+        "title": "Entorno",
+        "text": "Las historias de cada ubicación, como la del bar Vitreaux y su nombre conservado."
+      },
+      {
+        "title": "Prueba",
+        "text": "Centenera 740 terminado y habitado: lo que Neuhaus promete, lo entrega."
+      }
+    ],
+    "channelsTitle": "Un mismo mensaje, en todos los canales",
+    "channels": [
+      "Instagram y Facebook",
+      "Google (perfil y anuncios)",
+      "Sitio web",
+      "Cartelería y carteles de obra",
+      "Brochures por desarrollo",
+      "Banners y piezas de pauta"
+    ],
+    "designTitle": "Diseño gráfico incluido",
+    "design": [
+      "Banners para pauta y web",
+      "Carteles de obra y cartelería",
+      "Brochures por desarrollo",
+      "Placas, carruseles e historias",
+      "Presentaciones comerciales para el equipo de ventas"
+    ],
+    "designNote": "La impresión de cartelería y piezas físicas no está incluida."
+  },
+  "ads": {
+    "eyebrow": "Pauta digital",
+    "title": "Meta Ads y Google Ads, medidos de punta a punta.",
+    "lead": "Antes de invertir el primer peso instalamos la medición. Así cada campaña se puede evaluar por lo que trae, no por lo que parece.",
+    "platforms": [
+      {
+        "name": "Meta Ads",
+        "sub": "Instagram y Facebook",
+        "phase1": "Alcance, reproducciones de video y crecimiento de la cuenta en los públicos de interés.",
+        "phase2": "Campañas de consultas por desarrollo y remarketing a quien vio plantas o videos."
+      },
+      {
+        "name": "Google Ads",
+        "sub": "Búsqueda y Maps",
+        "phase1": "Anuncios de marca para que quien busca Neuhaus llegue a la web correcta.",
+        "phase2": "Búsquedas de compra e inversión: departamentos en pozo, a estrenar y por ambientes."
+      }
+    ],
+    "tracking": [
+      "Píxel de Meta y API de conversiones",
+      "Google Analytics 4 y Tag Manager",
+      "Consultas por formulario y clics de WhatsApp como conversión",
+      "Reporte mensual: consultas, origen y costo"
+    ],
+    "disclaimer": "La inversión publicitaria en Meta y Google va por separado del servicio de Shift y se paga directo a cada plataforma."
+  },
+  "production": {
+    "eyebrow": "Producción audiovisual",
+    "title": "Grabamos en obra. Contamos lo que se construye.",
+    "lead": "El contenido de una desarrolladora rinde cuando es real. Vamos a obra a filmar y fotografiar, y lo convertimos en piezas para redes, pauta y ventas.",
+    "steps": [
+      {
+        "title": "Guion y plan de rodaje",
+        "text": "Definimos qué grabar en cada visita según el calendario y la etapa de cada obra."
+      },
+      {
+        "title": "Jornada en obra",
+        "text": "Filmación y fotografía de avances, terminaciones, equipo y Centenera 740 habitado."
+      },
+      {
+        "title": "Edición",
+        "text": "Reels, videos de avance y piezas verticales para historias y anuncios."
+      },
+      {
+        "title": "Distribución",
+        "text": "Cada pieza se adapta a redes, pauta, web y presentaciones de ventas."
+      }
+    ]
+  },
+  "web": {
+    "eyebrow": "Sitio web",
+    "title": "Ajustes en la web, bonificados.",
+    "lead": "La web está bien resuelta. Los ajustes necesarios para que sea más dinámica, rápida y convierta mejor van bonificados.",
+    "items": [
+      "WhatsApp funcionando en todos los botones",
+      "Portada liviana para celular",
+      "Accesos más directos a cada desarrollo y a consultas",
+      "Medición instalada en todas las páginas",
+      "Corrección de errores internos de la cuenta"
+    ]
+  },
+  "crm": {
+    "eyebrow": "Módulo adicional",
+    "title": "CRM con MediaCore",
+    "lead": "Para el equipo de ventas propio, todas las consultas llegan ordenadas a un mismo lugar.",
+    "items": [
+      "Mantenimiento del CRM de MediaCore",
+      "Consultas de web, Meta y Google en un solo panel",
+      "Asignación de consultas al equipo de ventas",
+      "Seguimiento de cada interesado hasta la reserva"
+    ],
+    "price": "A definir",
+    "note": "MediaCore trabaja con distintos módulos: el valor se define según los que necesite el equipo de ventas. Se cotiza por separado."
+  },
+  "process": {
+    "eyebrow": "Proceso",
+    "title": "Cómo arrancamos.",
+    "steps": [
+      {
+        "title": "Relevamiento",
+        "text": "Conocemos el equipo, los desarrollos, los precios y los objetivos comerciales."
+      },
+      {
+        "title": "Base técnica",
+        "text": "WhatsApp, perfil de Google, medición y ajustes de la web."
+      },
+      {
+        "title": "Línea de comunicación",
+        "text": "Tono, mensajes y estilo visual comunes para todos los canales."
+      },
+      {
+        "title": "Producción",
+        "text": "Primera jornada en obra y calendario mensual aprobado por Neuhaus."
+      },
+      {
+        "title": "Publicación y pauta",
+        "text": "Arranca la Fase 1: contenido orgánico y campañas de awareness."
+      },
+      {
+        "title": "Reporte y ajuste",
+        "text": "Reunión mensual con resultados y definición del paso a la Fase 2."
+      }
+    ]
+  },
+  "pricing": {
+    "eyebrow": "Inversión",
+    "title": "Dos planes para acompañar a Neuhaus.",
+    "lead": "Los dos planes cubren las dos fases. La diferencia está en la cantidad de contenido y producción por mes.",
+    "plans": [
+      {
+        "name": "Plan Esencial",
+        "tagline": "Foco en reels para hacer crecer la cuenta",
+        "price": "$2.140.000",
+        "period": "por mes",
+        "featured": true,
+        "badge": "Recomendado",
+        "items": [
+          "6 posteos por mes: 4 reels y 2 placas/carruseles",
+          "8 historias por mes",
+          "1 jornada de grabación en obra por mes",
+          "Diseño gráfico: hasta 3 piezas por mes, incluye cartelería",
+          "Community management",
+          "Meta Ads y Google Ads",
+          "Medición y reporte mensual"
+        ]
+      },
+      {
+        "name": "Plan Elevado",
+        "tagline": "Más producción para instalar la marca más rápido",
+        "price": "$3.420.000",
+        "period": "por mes",
+        "featured": false,
+        "items": [
+          "12 posteos por mes: 8 reels y 4 placas/carruseles",
+          "16 historias por mes",
+          "3 jornadas de grabación en obra por mes",
+          "Diseño gráfico: hasta 6 piezas por mes, incluye cartelería y brochures",
+          "Community management",
+          "Meta Ads y Google Ads con remarketing",
+          "Medición, reporte y reunión mensual"
+        ]
+      }
+    ],
+    "extras": [
+      {
+        "name": "Ajustes en la web",
+        "price": "Bonificado"
+      },
+      {
+        "name": "Módulo CRM MediaCore",
+        "price": "A definir según módulos"
+      }
+    ],
+    "disclaimers": [
+      "La inversión publicitaria en Meta y Google no está incluida en el honorario y se paga directo a cada plataforma.",
+      "No incluye impresión de cartelería, carteles de obra ni piezas físicas.",
+      "Contrato de 6 meses, renovable.",
+      "Valores sujetos a confirmación al cierre del relevamiento."
+    ]
+  },
+  "closing": {
+    "title": "Neuhaus ya tiene la historia y las obras. Sumemos la voz.",
+    "text": "Si la propuesta les cierra, coordinamos el relevamiento y arrancamos con la base técnica en la primera semana.",
+    "contactName": "Agustín Sztrasberger",
+    "contactRole": "Shift Agency",
+    "phone": "11 3201-6027",
+    "email": "info@shiftagency.com.ar",
+    "instagram": "@_shift.agency"
+  }
+}
